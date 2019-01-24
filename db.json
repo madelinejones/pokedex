@@ -1,6 +1,5 @@
 {
   "users": [
-    export const Pokemon = [
     {
         'id': 1,
         'name': 'Bulbasaur',
